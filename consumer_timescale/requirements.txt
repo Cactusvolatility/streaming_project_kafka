@@ -1,0 +1,2 @@
+aiokafka==0.13.0
+asyncpg==0.31.0

@@ -1,0 +1,2 @@
+aiokafka==0.13.0
+websockets==16.0
